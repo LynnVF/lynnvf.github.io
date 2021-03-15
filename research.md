@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 pubs:
-
+---
 
 ##Peer-reviewed publications
 
