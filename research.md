@@ -2,10 +2,9 @@
 layout: page
 permalink: /research/
 title: Research
-pubs:
 ---
 
-##Peer-reviewed publications
+## Peer-reviewed publications
 
 1.	Dimanova, P., Borbás, R., Schnider, C. B., Fehlbaum, L., & Raschle, N. (2021, PREPRINT). Direct and indirect effects of dorsolateral prefrontal cortex and emotion regulation strategy use on mental health during Covid-19. [LINK]
 2.	Borbás, R., Fehlbaum, L., Dimanova, P., Negri, A., Arudchelvam, J., Schnider, C. B., & Raschle, N. (2021, PREPRINT). Stress, anxiety and socioemotional functioning during Covid-19 in children, adults and parent-child dyads: behavioral evidence and neural premarkers. [LINK]
@@ -28,7 +27,7 @@ pubs:
 19.	Raschle, N.M., Menks W.M., Fehlbaum, L.V., Tshomba E. & Stadler C. (2015). Structural and functional alterations in right dorsomedial prefrontal and left insular cortex co-localize in adolescents with aggressive behaviour: An ALE meta-analysis. PLoS ONE 10(9): e0136553. [LINK]
 
 
-##Conference proceedings
+## Conference proceedings
 
 1.	Fehlbaum L.V., Peters, L., Borbás, R., Dimanova, P., Röell, M., Ansari, D. & Raschle, N.M. (2020). Intergenerational effects on the neuronal characteristics of the reading network in mother-child dyads. Abstract selected for a talk at the SSECR Second Annual Meeting, Zurich, November 2020.
 2.	Borbás, R., Fehlbaum, L.V., Dimanova, P. & Raschle, N.M. (2020). Neural correlates of Theory of Mind processing in children, mothers and child-mother dyads. Abstract submitted to the SSECR Second Annual Meeting, Zurich, November 2020.
@@ -70,7 +69,7 @@ pubs:
 38.	Fehlbaum, L.V., Raschle, N.M., Menks, W.M., Euler, F. & Stadler, C. (2014). Emotion processing and emotion regulation in youths with empathy deficits. Poster abstract accepted to the 1st Computational Psychiatry Meeting, Zurich, May 2014.
 39.	Eberhard-Moscicka, A.K., Jost, L.B., Fehlbaum, L.V., Pfenninger, S.E. & Maurer, U. (2014). Temporal dynamics of visual word processing – effects of foreign language learning in children and adults. Poster abstract accepted to the 21st Annual Cognitive Neuroscience Society Meeting, April 2014.
 
-##Outreach
+## Outreach
 
 01/2021	Interview for Fokus magazine (hep Verlag AG) [LINK]
 03/2020	Interview for Swiss radio station SRF2 Kultur, report ‘Kinder-Jahre’ [LINK]
