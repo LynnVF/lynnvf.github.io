@@ -16,4 +16,4 @@ You can find some professional details about me on [LinkedIn].
 [LinkedIn]: https://www.linkedin.com/in/lynnfehlbaum/
 [Lab]: mailto:lynnfehlbaum@uzh.ch
 [Private]: mailto:lynnfehlbaum@gmail.com
-[work] https://www.jacobscenter.uzh.ch/en/research/developmental_neuroscience/home.html
+[work]: https://www.jacobscenter.uzh.ch/en/research/developmental_neuroscience/home.html
