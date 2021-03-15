@@ -4,33 +4,16 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/profile_1.jpg" caption="Sept 2016" width="300px" align="right" %}
+{% include image.html url="images/profile_1.jpg" caption="Mar 2021" width="300px" align="right" %}
 
-I work at [Oculus] on VR and related problems.
-I was a postdoc first at [MIT] with [Fredo Durand] and [Sylvain Paris],
-and then in the vision and robotics group at [Disney Research Zurich]. I completed
-my PhD under the guidance of [George Drettakis] at [INRIA] in the beautiful French
-Riviera. I obtained my Masters degree in computer science at [ENSIMAG]. In an
-earlier life, I used to be an undergrad at [Indian Institute of Technology Delhi].
+I am a cognitive neuroscientist interested in personalized healthcare. I have experience in coordinating and managing cross-sectional and longitudinal projects with clinical and non-clinical populations, conducting neurobiological assessments (MRI, EEG), data analysis, teaching and dissemination of scientific findings to experts and the general public. I work at [Jacobs Center for Productive Youth Development] on Developmental Neuroscience.
 
-Email: [gchauras@fb.com] (Facebook related communication) <br />
-Email: [gchauras@csail.mit.edu] (others)
+Email: [Lab] (Professional Contact) <br />
+Email: [Private] (others)
 
-You can find some professional details about me on [Google Scholar].
+You can find some professional details about me on [LinkedIn].
 
-My [academic lineage](files/GauravChaurasia_academic_lineage.pdf)
-includes some Gods (courtesy [Peter Vangorp]).
-
-[Disney Research Zurich]: http://www.disneyresearch.com/research-labs/disney-research-zurich/
-[INRIA]: https://team.inria.fr/graphdeco/
-[Indian Institute of Technology Delhi]: http://www.cse.iitd.ac.in
-[George Drettakis]: http://www-sop.inria.fr/members/George.Drettakis
-[ENSIMAG]: http://ensimag.grenoble-inp.fr
-[Fredo Durand]: http://people.csail.mit.edu/fredo/
-[Sylvain Paris]: http://people.csail.mit.edu/sparis/
-[MIT]: http://www.csail.mit.edu/
-[Oculus]: https://www.oculus.com/
-[Google Scholar]: http://scholar.google.com/citations?user={{site.author.scholar}}&hl=en&oi=ao
-[gchauras@csail.mit.edu]: mailto:gchauras@csail.mit.edu
-[gchauras@fb.com]: mailto:gchauras@fb.com
-[Peter Vangorp]: http://users.telenet.be/pvangorp/
+[LinkedIn]: https://www.linkedin.com/in/lynnfehlbaum/
+[Lab]: mailto:lynnfehlbaum@uzh.ch
+[Private]: mailto:lynnfehlbaum@gmail.com
+[Jacobs Center for Productive Youth Development] https://www.jacobscenter.uzh.ch/en/research/developmental_neuroscience/home.html

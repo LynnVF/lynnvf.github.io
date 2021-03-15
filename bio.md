@@ -1,8 +1,1 @@
-Gaurav Chaurasia is a post-doctoral researcher at Disney Research Zurich
-investigating parametric and machine learning methods to extract semantic
-structure in natural and man-made scenes. He completed his doctoral dissertation
-on image-based rendering of urban scenes with Dr. George Drettakis at INRIA
-(France), and worked at MIT (Cambridge MA) as a post-doctoral associate
-with Prof. Fredo Durand on computational photography. His research interests
-include image-based rendering, 3D reconstruction, high performance image
-processing, and applied machine learning for image synthesis.
+I am a cognitive neuroscientist interested in personalized healthcare. I have experience in coordinating and managing cross-sectional and longitudinal projects with clinical and non-clinical populations, conducting neurobiological assessments (MRI, EEG), data analysis, teaching and dissemination of scientific findings to experts and the general public.
