@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-Please [reach out](mailto:lynn.fehlbaum@jacobscenter.uzh.ch) to me to get a detailed CV.
+Please [reach out](mailto:lynn@fehlbaum.science) to me to get a detailed CV.
 
 ---
 
