@@ -4,12 +4,14 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/profile_1.jpg" caption="Mar 2021" width="300px" align="right" %}
+{% include image.html url="images/profile_1.jpg" caption="Lynn V. Fehlbaum" width="300px" align="right" %}
 
 I am a cognitive neuroscientist interested in personalized healthcare. I have experience in coordinating and managing cross-sectional and longitudinal projects with clinical and non-clinical populations, conducting neurobiological assessments (MRI, EEG), data analysis, teaching and dissemination of scientific findings to experts and the general public. I [work] at Jacobs Center for Productive Youth Development on Developmental Neuroscience.
 
+
 Email: [Lab] (Professional Contact) <br />
 Email: [Private] (Others)
+
 
 You can find some professional details about me on [LinkedIn].
 
