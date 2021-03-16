@@ -6,6 +6,8 @@ permalink: /cv/
 
 Please [reach out](mailto:lynn.fehlbaum@jacobscenter.uzh.ch) to me to get a detailed CV.
 
+---
+
 # Experience
 
 
@@ -23,11 +25,12 @@ Jacobs Center for Productive Youth Development – University of Zurich – Pos
   –   Postdoctoral researcher 
 
  **2014 - 2018**  
- 
+
  Psychiatric University Clinics – University of Basel
  –   Doctoral researcher 
 
  **2013**  
+
  University of Zurich – Institute of Social and Preventive Medicine
  –   Research assistant 
 
@@ -48,6 +51,8 @@ Jacobs Center for Productive Youth Development – University of Zurich – Pos
  **2011**  
 
  Charité Berlin – Neurology –   Intern 
+
+ ---
 
 # Education
 
