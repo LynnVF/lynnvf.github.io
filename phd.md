@@ -4,7 +4,7 @@ permalink: /cv/phd/
 title: "Neuronal basis of emotion processing and regulation in conduct disorder"
 ---
 
-### Fehlbaum, Lynn Valérie. Neuronal basis of emotion processing and regulation in conduct disorder. 2018, Doctoral Thesis, University of Basel, Faculty of Psychology.
+_Fehlbaum, Lynn Valérie. Neuronal basis of emotion processing and regulation in conduct disorder. 2018, Doctoral Thesis, University of Basel, Faculty of Psychology._
 
 ## Abstract
 
