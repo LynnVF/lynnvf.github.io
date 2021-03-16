@@ -6,7 +6,7 @@ title: Research
 
 # Content 
 
-[Peer-reviewed Publications](#peer-reviewed-publications)
+[Peer-Reviewed Publications](#peer-reviewed-publications)
 
 [Conference Proceedings](#conference-proceedings)
 
