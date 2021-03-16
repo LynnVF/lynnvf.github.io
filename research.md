@@ -4,7 +4,19 @@ permalink: /research/
 title: Research
 ---
 
-## Peer-reviewed publications
+# Content 
+
+[Peer-reviewed Publications](#peer-reviewed-publications)
+
+[Conference Proceedings](#conference-proceedings)
+
+[Outreach](#outreach)
+
+[More Information](#more-information)
+
+---
+
+# Peer-reviewed Publications
 
 1.	Dimanova, P., Borbás, R., Schnider, C. B., Fehlbaum, L., & Raschle, N. (2021, PREPRINT). Direct and indirect effects of dorsolateral prefrontal cortex and emotion regulation strategy use on mental health during Covid-19. [LINK](https://doi.org/10.31234/osf.io/bmgt9)
 
@@ -45,7 +57,7 @@ title: Research
 19.	Raschle, N.M., Menks W.M., Fehlbaum, L.V., Tshomba E. & Stadler C. (2015). Structural and functional alterations in right dorsomedial prefrontal and left insular cortex co-localize in adolescents with aggressive behaviour: An ALE meta-analysis. PLoS ONE 10(9): e0136553. [LINK](https://doi.org/10.1371/journal.pone.0136553)
 
 
-## Conference proceedings
+# Conference Proceedings
 
 1.	Fehlbaum L.V., Peters, L., Borbás, R., Dimanova, P., Röell, M., Ansari, D. & Raschle, N.M. (2020). Intergenerational effects on the neuronal characteristics of the reading network in mother-child dyads. Abstract selected for a talk at the SSECR Second Annual Meeting, Zurich, November 2020.
 
@@ -125,7 +137,7 @@ title: Research
 
 39.	Eberhard-Moscicka, A.K., Jost, L.B., Fehlbaum, L.V., Pfenninger, S.E. & Maurer, U. (2014). Temporal dynamics of visual word processing – effects of foreign language learning in children and adults. Poster abstract accepted to the 21st Annual Cognitive Neuroscience Society Meeting, April 2014.
 
-## Outreach
+# Outreach
 
 01/2021	Interview for Fokus magazine (hep Verlag AG) [LINK](https://www.hep-verlag.ch/downloads/fokus_1_2021.pdf)
 
@@ -137,10 +149,10 @@ title: Research
 
 03/2015 – 04/2015	School teachings on cognitive neuroscience (‘School and Researchers meet’) for Gymnasium Liestal and Gymnasium Leonhard, Basel
 
-## More Information
+# More Information
 
-LinkedIn: https://www.linkedin.com/in/lynnfehlbaum/
+LinkedIn: [https://www.linkedin.com/in/lynnfehlbaum/](https://www.linkedin.com/in/lynnfehlbaum/)
 
-ORCID ID: [0000-0002-7649-8699](https://orcid.org/0000-0002-7649-8699)
+ORCID iD: [0000-0002-7649-8699](https://orcid.org/0000-0002-7649-8699)
 
 
