@@ -23,6 +23,6 @@ Please [reach out](mailto:lynn.fehlbaum@jacobscenter.uzh.ch) to me to get a deta
 
 | Timeframe        | Employer           | 
 | ------------- |-------------| 
-| **2014 - 2018** University of Basel and Psychiatric University Clinics (UPK Basel) | [PhD](thesis.md) in Psychology (Developmental Cognitive Neuroscience) |
+| **2014 - 2018** University of Basel and Psychiatric University Clinics (UPK Basel) | [PhD](phd.md) in Psychology (Developmental Cognitive Neuroscience) |
 | **2011 - 2013** University of Zurich | Master of Science in Psychology (Cognitive Psychology and Cognitive Neuroscience)  | 
 | **2006 - 2011** University of Zurich | Bachelor of Science in Psychology   | 
