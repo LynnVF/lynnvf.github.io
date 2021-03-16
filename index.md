@@ -11,7 +11,8 @@ I am a cognitive neuroscientist interested in personalized healthcare. I have ex
 I am currently a postdoctoral fellow at the Developmental Neuroscience group (principial investigator: Prof. Nora M. Raschle) at the [Jacobs Center for Productive Youth Development](https://www.jacobscenter.uzh.ch/en/research/developmental_neuroscience/home.html).
 
 
----
+<br>
+<br>
 
 Contact: [Email](mailto:lynn@fehlbaum.science).
 
