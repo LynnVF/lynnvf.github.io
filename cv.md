@@ -23,6 +23,7 @@ Jacobs Center for Productive Youth Development – University of Zurich – Pos
   –   Postdoctoral researcher 
 
  **2014 - 2018**  
+ 
  Psychiatric University Clinics – University of Basel
  –   Doctoral researcher 
 
